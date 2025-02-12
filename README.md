@@ -24,7 +24,7 @@ In this system:
 - **Web3 Library**: ethers.js
 - **Wallet**: MetaMask for connecting to the blockchain
 
-## Getting Started
+
 
 ### Prerequisites
 
